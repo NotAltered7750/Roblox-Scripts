@@ -21,9 +21,9 @@ end
 
 local function serverHop()
     if syn then
-        syn.queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Aba-AFK-World-farm-script/main/Script.lua", true))()')
+        syn.queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Roblox-Scripts/main/ABA/main.lua", true))()')
     else
-        queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Aba-AFK-World-farm-script/main/Script.lua", true))()')
+        queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Roblox-Scripts/main/ABA/main.lua", true))()')
     end
 
 end
@@ -50,11 +50,11 @@ if game.GameId == 578392296 then
         notify("Server Hopping")
         task.wait(1)
         serverHop()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Aba-AFK-World-farm-script/main/Script.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Roblox-Scripts/main/ABA/main.lua", true))()
     else
         notify("Server Hopping")
         serverHop()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Aba-AFK-World-farm-script/main/Script.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAltered7750/Roblox-Scripts/main/ABA/main.lua", true))()
     end
 
 end
