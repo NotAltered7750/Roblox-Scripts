@@ -10,6 +10,9 @@ Hello, I am Altered. I am 15 years old. This is my first time using Github. That
 ```Discord Server is to be added.```
 Just a bunch of Roblox scripts.
 
+### Note
+Every script is open-source. You can copy the codes and use it on your own!
+
 The available games are
 
 1. [Anime Battle Arena](ABA/main.lua)
