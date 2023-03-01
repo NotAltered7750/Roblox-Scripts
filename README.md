@@ -13,11 +13,15 @@ Just a bunch of Roblox scripts.
 ### Note
 Every script is open-source. You can copy the codes and use it on your own!
 
+### Games
 The available games are
 
 1. [Anime Battle Arena](ABA/main.lua)
 + ```AFK-World Server Hopper```
 2. [Your Bizarre Adventure](YBA/main.lua)
-+ ```Auto Farm``` 
++ ```Auto Farm. ESP will be added in the future``` 
 
 ```More games will be added in the future```
+ ### Planned
+ 
+ 1. Anime Dimensions
